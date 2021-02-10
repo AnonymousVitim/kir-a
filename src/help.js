@@ -15,8 +15,8 @@ const help = (prefix,pushname2, user, limitt) => {
 ╔════════════════════
 ║╭──❉ *INFORMAÇÕES* ❉──
 ║│➸ Prefix: 「  ${prefix}  」
-║│➸ Criador : *TIO PAIN*
-║│➸ Numero do meu criador: https://wa.me/5511949545217
+║│➸ Criador : *TIO VITIM*
+║│➸ Numero do meu criador: https://wa.me/5567996005372
 ║╰───────────    
 ╠════════════════════
 ║╭──❉ *STICKERS* ❉──
