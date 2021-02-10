@@ -1,7 +1,7 @@
 const toinmenu = (prefix, pushname) => {
     return `◪ *Comandos do pain*
 ╔════════════════════
-║╭──❉ *MENU DO TITIO PAIN* ❉── 
+║╭──❉ *MENU DO TITIO VITIM* ❉── 
 ║│➸${prefix}prefixo
 ║│Sobre : esse muda o prefixo
 ║╰───────────
