@@ -42,7 +42,7 @@ const nsfwmenu = (prefix, pushname) => {
 ║│Sobre : para ser sincero e tudo hentai
 ║╰───────────
 ╠════════════════════
-║ TITIO PAIN O BRABOR DOS BOT
+║ TITIO VITIM O BRABOR DOS BOT
 ╚════════════════════
 
   _obs para usar esses comandos ative o menu NSFW_\n _Digite_\n ${prefix}*nsfw 1*`
