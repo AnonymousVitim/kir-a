@@ -2,7 +2,7 @@ const help = (prefix,pushname2, user, limitt) => {
 	return `	
 ❉──────────❉
 
-   「 *PAIN BOT* 」
+   「 *VITIM BOT* 」
 
 ❉──────────❉
 ╔════════════════════
