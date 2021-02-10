@@ -22,7 +22,7 @@ const toinmenu = (prefix, pushname) => {
 ║│Sobre : esse limpa todas conversa do bot
 ║╰───────────
 ╠════════════════════
-║ TITIO PAIN O MAIS BRABOR
+║ TITIO VITIM O MAIS BRABOR
 ╚════════════════════
 `
 
