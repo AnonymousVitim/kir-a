@@ -147,7 +147,7 @@ const help = (prefix,pushname2, user, limitt) => {
 ║│➸ ${prefix}idiomas
 ║╰───────────
 ╠════════════════════
-║ TITIO PAIN O BRABOR DOS MENU
+║ TITIO VITIM O BRABOR DOS MENU
 ╚════════════════════
 `
 }
