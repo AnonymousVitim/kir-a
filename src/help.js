@@ -109,7 +109,7 @@ const help = (prefix,pushname2, user, limitt) => {
 ║│Sobre : o ping do bot
 ║╰───────────
 ╠════════════════════
-║╭──❉ *ESSE AGORA E SO PRO TIO PAIN* ❉──
+║╭──❉ *ESSE AGORA E SO PRO TIO VITIM* ❉──
 ║│➸  ${prefix}prefixo
 ║│Sobre : muda o prefixo
 ║╰───────────
